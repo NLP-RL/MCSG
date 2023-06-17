@@ -1,1 +1,1 @@
-# MCSG
+# Medical Concern Summary Generation (MMCSG)
